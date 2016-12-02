@@ -2,7 +2,11 @@
 main{
   text-align: center;
 }
-a {
+.car-img {
+  height: 40vh;
+  margin: auto;
+}
+/*a {
   margin:auto;
 
-}
+}*/
